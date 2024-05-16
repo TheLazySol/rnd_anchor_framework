@@ -12,7 +12,7 @@ url = "https://api.apr.dev"
 
 [provider]
 cluster = "Localnet"
-wallet = "~/.config/solana/id.json"
+wallet = "/home/skippcode/solana_projects/rust-program-research/rnd_anchor_framework/rnd933Ypd2oq9b8VBy3xLRE73C6Q7nDq2m9xzHU3h3Q.json"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
