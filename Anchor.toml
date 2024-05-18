@@ -5,13 +5,13 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-rnd_anchor_framework = "FZkMHQsM2ELE7baJvWJfZcL9cZFdWWNVPCqV2Fz1Eb7u"
+rnd_anchor_framework = "58ybx3ASqW2gvV8ejmiQfGKAMPrbBkjpipzfnQSN6vLh"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "localnet"
 wallet = "/home/skippcode/solana_projects/rust-program-research/rnd_anchor_framework/rnd933Ypd2oq9b8VBy3xLRE73C6Q7nDq2m9xzHU3h3Q.json"
 
 [scripts]
